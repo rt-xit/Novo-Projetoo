@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-05-28T11:49:21.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="whFhZcIHgvLnii1TFoCK" version="24.4.9" type="device">
+  <diagram name="Página-1" id="ywj1Gj2z3EZPaLBj13w3">
+    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Il__B-tduLhh678jzSE5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="70" width="400" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="610" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Bordado&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Bordado&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-6" value="João&amp;nbsp; =&amp;nbsp; 50pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-7" value="Pedro =&amp;nbsp; 60pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="215" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-8" value="Carlos&amp;nbsp; =&amp;nbsp; 55pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-9" value="Miguel&amp;nbsp; =&amp;nbsp; 63pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-10" value="André&amp;nbsp; =&amp;nbsp; 52pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-12" value="?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="105" y="535" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-13" value="João&amp;nbsp; =&amp;nbsp; 50pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-14" value="Pedro =&amp;nbsp; 60pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-15" value="Carlos&amp;nbsp; =&amp;nbsp; 55pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-16" value="Miguel&amp;nbsp; =&amp;nbsp; 63pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-17" value="André&amp;nbsp; =&amp;nbsp; 52pç por hr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-18" value="Quanto tempo 1.300 pç" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0B0B0;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="390" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-19" value="?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Il__B-tduLhh678jzSE5-20" value="Quanto tempo 1.300 pç" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0B0B0;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
